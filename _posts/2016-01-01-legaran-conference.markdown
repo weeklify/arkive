@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Legaran Conference"
-date:   2016-01-01 13:28:59 -0500
+date:   
 ---
 # United Federation of Planets
 
