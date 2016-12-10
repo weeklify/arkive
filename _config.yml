@@ -1,14 +1,14 @@
 # Site settings
-title:       Captains-log
-author:      Masha Safina
-description: ":rocket: A responsive Jekyll theme based on my personal internet site"
+title:       The Gweek Archives
+author:      the Grafik Weekers
+description: "A collaborative manual to learn the basic of Photoshop and Illustrator"
 baseurl:     "/captains-log" 
 url:         "https://mashlo.github.io" 
 
 # Social Links
-email:            safe@masha.space
-twitter_username: mashasafina
-github_username:  mashlo
+email:            grafikweek@weeklify.com
+twitter_username: @grafikweek
+github_username:  weeklify
 
 # Build settings
 markdown: kramdown
