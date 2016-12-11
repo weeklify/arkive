@@ -2,8 +2,8 @@
 title:       The Grafik Week Arkive
 author:      the Grafik Weekers
 description: "A collaborative manual to learn the basic of Photoshop and Illustrator"
-baseurl:     "/arkive/" 
-url:         "https://weeklify.github.io/arkive/" 
+baseurl:     "/arkive" 
+url:         "https://weeklify.github.io" 
 
 # Social Links
 email:            grafikweek@weeklify.com
