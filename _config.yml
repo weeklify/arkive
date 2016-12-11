@@ -1,9 +1,9 @@
 # Site settings
-title:       The Gweek Archives
+title:       The Grafik Week Arkive
 author:      the Grafik Weekers
 description: "A collaborative manual to learn the basic of Photoshop and Illustrator"
-baseurl:     "/captains-log" 
-url:         "https://weeklify.github.io/captains-log/" 
+baseurl:     "/arkive" 
+url:         "https://weeklify.github.io/arkive/" 
 
 # Social Links
 email:            grafikweek@weeklify.com
